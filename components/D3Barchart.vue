@@ -13,7 +13,7 @@
 </template>
 
 <script>
-import BarChart from '/home/nsm-07/Desktop/Bhupati/dev1/D3Chart/components/D3Chart.vue'
+import BarChart from '@/components/D3Chart.vue'
 import axios from 'axios'
 export default {
   name: 'home',
